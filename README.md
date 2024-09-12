@@ -1,7 +1,3 @@
-Here’s a sample README file for your project, with emojis and detailed sections:
-
----
-
 # 🌐 Computer Networks Visualization & Simulation Project
 
 Welcome to the **Computer Networks Visualization & Simulation** project! This repository contains interactive visualizations and simulations of key concepts in computer networks like **line-coding techniques**, **HTTP-DNS**, **TCP-UDP**, and more. 🎓
@@ -83,10 +79,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - **GitHub Repository:** [Click Here](https://github.com/Shripad735/line-coding)
 - **Live Demo:** [Click Here](https://shripad735.github.io/line-coding/)
-
----
-
-Feel free to modify it based on your specific content! 😊
 
 # Getting Started with Create React App
 
